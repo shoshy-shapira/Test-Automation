@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCasrs>
+	<TestData>
+		<searchTerm>
+			Selenium WebDriver
+		</searchTerm>
+	</TestData>
+
+	<TestData>
+		<searchTerm>
+			Automation Testing
+		</searchTerm>
+	</TestData>
+
+</TestCasrs>
